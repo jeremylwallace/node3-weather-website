@@ -1,4 +1,3 @@
-console.log('client side javascript loaded')
 
 // http://puzzle.mead.io/puzzle
 
